@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://media.istockphoto.com/photos/dark-green-felt-background-texture-close-up-picture-id897665238?k=6&m=897665238&s=612x612&w=0&h=CwQuZ0kRxY5r4JTz8ExZFJDkHP99GtAQBuLamx6Lm_A=');
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    padding:200px;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    color: goldenrod;
+}
+
+/* p{
+
+} */
+
+#message-el{
+    font-style:italic ;
+
+}
+
+button{
+    color: #016f32;
+    width: 200px;
+    background-color: goldenrod;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    font-size: 23px;
+    margin: 5px;
+}
